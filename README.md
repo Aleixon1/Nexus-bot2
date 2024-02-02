@@ -1,14 +1,14 @@
->🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Tallycleark Ender
+>🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿:E D E R 
 
 >🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙰𝚉𝙰𝙼𝙸
 
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙳𝙸𝙴𝙶𝙾𝙹𝙰𝙳𝙸𝙱𝙾𝚃 
+
 
 >🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙷𝙰𝙲𝙷𝙴 𝙹𝙾𝚃𝙰
 
 >🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙰𝚇𝙴𝙻 
 
-## `🐺𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊🐺` 
+## `Nexus bot` 
 <p align="center">
 <img src="https://i.ibb.co/wYRhwjt/lobo-bot.jpg" alt="LoboBot-MD" width="900"/>
 </p>
@@ -16,7 +16,7 @@
 
 
 
-### `—◉ 🤖𝗟𝗼𝗯𝗼-𝗯𝗼𝘁𝘀-𝗠𝗗(𝗼𝗳𝗰)🤖`
+### `—◉ 🤖Nexus bot(𝗼𝗳𝗰)🤖`
 
 <a href="https://api.whatsapp.com/send/?phone=573218138672&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
